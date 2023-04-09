@@ -1,0 +1,1 @@
+This is a microservice template that uses AWS Lambdas, Terraform and Postgres Database
